@@ -1,0 +1,15 @@
+# Raw generated data files
+duka_sales.csv
+agents.csv
+agent_transactions.csv
+
+# Builder scripts and temp files
+build_*.py
+
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
